@@ -59,4 +59,5 @@ colaborador. Colunas desnecessárias foram removidas.
 
 ## 10) eliminação de colunas desnecessárias
 
-## 11) criação de relatório básico: contagem de colaborador por gerente, contagem de projeto por localização, salários, número de dependentes por colaborador, número de dependente por relacionamento, número de colaboradores por sexo, nome do colaborador e horas empregadas em cada projeto.
+## 11) criação de relatório básico: 
+	contagem de colaborador por gerente, contagem de projeto por localização, salários, número de dependentes por colaborador, número de dependente por relacionamento, número de colaboradores por sexo, nome do colaborador e horas empregadas em cada projeto.
