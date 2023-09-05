@@ -1,13 +1,13 @@
 # dio_powerbi_desafio
 O que foi feito?
 
-#Antes do PowerBI:
+# Antes do PowerBI:
 1) Configurações do banco de dados MySQL
 2) População das tabelas do banco
 3) Integração do banco de dados com o PowerBI
 
-#PowerBI:
-##1) Várias colunas renomeadas para facilitar o entendimento/padronizar melhor:
+# PowerBI:
+## 1) Várias colunas renomeadas para facilitar o entendimento/padronizar melhor:
 
 tabela departament
 "Dname" -> "department_name", "Dnumber" -> "department_number",
